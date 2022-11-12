@@ -1,0 +1,123 @@
+h1 {
+    color: #00ABB3;
+    margin: 0;
+    padding-top: 100px;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+}
+.heading-paragraph{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+    color: #00ABB3;
+}
+
+h2{
+    color: #00ABB3;
+}
+p{
+    line-height: 35px;
+    font-family:'Montserrat';
+    font-weight:550;
+}
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+    background-color: #EAF6F6;
+}
+
+.top-container{
+    background-color:#CDFCF6;
+    position: relative;
+    /* padding-top: 100px; */
+}
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 60px;
+}
+.bottom-cloud{
+    position: absolute;
+    left: 150px;
+    bottom: 300px;
+
+}
+.my-photo{
+    border-radius: 100%;
+    height: 200px;
+}
+.middle-container{
+    margin-top: 80px;
+    background-color: #EAF6F6;
+    position: relative;
+}
+hr{
+    border: dotted 7px;
+    color: #D8D9CF;
+    border-bottom: none;
+    width: 5%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.my-skills{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 40px;
+    font-weight: bold;
+    color: #00ABB3;
+    /* margin-bottom: 200px; */
+}
+.web-development{
+    height: 180px;
+    background-color:#DDDDDD;
+    border-radius: 100%;
+    float: left;
+    margin-right: 30px;
+}
+.web-skills{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.machine-learning{
+    height: 180px;
+    background-color:#DDDDDD;
+    border-radius: 100%;
+    float: right;
+    margin-left: 30px;
+}
+.freelance{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align:center;
+}
+.btn{
+    text-decoration: none;
+    width: 24%;
+    background-color: #00ABB3;
+    border-radius: 7px;
+    padding: 10px 20px;
+    margin-bottom: 30px;
+    color: white;
+}
+.spann{
+    text-decoration: underline;
+}
+.bottom-container{
+    background-color:#CDFCF6;
+    margin: 0;
+    padding: 30px;
+}
+.copyrightt{
+    color: #00ABB3;
+    font-style: italic;
+    font-size: 15px;
+}
+.footer-link{
+    padding: 10px 40px 10px 40px;
+    text-decoration: none;
+    color:#00ABB3;
+    font-family: 'Montserrat', sans-serif;
+}
+
